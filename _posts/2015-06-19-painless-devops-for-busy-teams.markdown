@@ -6,8 +6,8 @@ categories: devops aws
 ---
 #Or How I Learned to Stop Worrying and Love AWS Opsworks
 
-###Plan For Success and Failure
-When we started work on CarLingo our operational goals were to plan for success and failure from the start. Planning for success meant ensuring the product will be easy to scale and failure planning meant that we had to have monitoring and backup/recovery capabilities that enabled us to move fast and break things.
+###Plan for Success and Failure
+When we started work on CarLingo our operational goals were to plan for success and failure from the start. Planning for success meant ensuring the product will be easy to scale. Failure planning meant that we had monitoring and backup/recovery capabilities that enabled us to move fast and break things.
 
 Basically, we wanted our production and staging environments to be "big boy" software from day one, which meant;  
 
