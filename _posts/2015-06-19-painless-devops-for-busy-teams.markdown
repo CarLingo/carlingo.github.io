@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Painless Devops for Busy Teams"
+title:  "Painless DevOps for Busy Teams"
 date:   2015-06-14 20:42:52
 categories: devops aws
 ---
