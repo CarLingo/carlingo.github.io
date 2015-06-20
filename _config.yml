@@ -2,7 +2,7 @@
 title: Carlingo Engineering
 email: engineering@carlingo.com
 description: Blog for the CarLingo Engineering Team. We are seeking motivated engineers that like technology, cars, and data.
-baseurl: "/blog" # the subpath of your site, e.g. /blog/
+baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://carlingo.github.io/" # the base hostname & protocol for your site
 twitter_username: car_lingo
 github_username:  meconlin
