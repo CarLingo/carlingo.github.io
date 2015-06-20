@@ -29,7 +29,7 @@ A Stack is a logical group of Layers/Applications that serves a common purpose. 
 
 AWS OpsWorks is designed to run [Chef](https://www.chef.io/chef/) cookbooks and comes with a [large library of cookbooks](https://github.com/opscode-cookbooks/aws) powering the default Layers. Chef allows you to define your infustructure as code. I have used [Puppet](https://puppetlabs.com/), [Ansible](http://www.ansible.com/home), and [Fabric](http://www.fabfile.org/) in the past and found Chef easy to learn. It has a strong and helpful [community](https://supermarket.chef.io/) and extending a default OpsWorks layer to meet you specific needs is easy and quick.
 
-OpsWorks integrates easily with other AWS resources; Elastic Load Balancers, RDS, ElastiCache, and CloudWatch monitoring and alerting are all wired up easily. For example, If you define an RDS layer in your OpsWorks Stack and then select it in your Rails Application the correct ```database.yml``` config file for RDS will be dropped into your web app on deployment.
+OpsWorks integrates easily with other AWS resources; Elastic Load Balancers, RDS, ElastiCache, and CloudWatch monitoring and alerting are all wired up easily. 
 
 ###What We Had to Customize
 Very little. Our kit is almost completely vanilla OpsWorks. We created a few custom recipes that configure a custom nginx configuration, install some ip geo software and setup log aggregation. A few very short Chef recipes is the extent of our devops work.
