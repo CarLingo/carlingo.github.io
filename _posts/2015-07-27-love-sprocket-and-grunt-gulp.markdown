@@ -5,8 +5,6 @@ date:   2015-07-27 11:23:23
 categories: javascript sprockets build
 ---
 
-## How to Love Sprockets and Grunt/Gulp at the Same Time
-
 ## Objective
 
 First, a bit of backstory. We have an existing core site built with Rails using the traditional asset pipeline. Our first objective was implementing two new mobile only single page web apps backed by our Rails application. We had a secondary objective to take advantage of all the great tools the javascript community has to offer, for example; existing modules, NPM, good debugging tools, live reloading, linting, fast dev-time compilation, testing frameworks, etc.
