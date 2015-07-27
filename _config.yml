@@ -1,5 +1,5 @@
 # Site settings
-title: Carlingo Engineering
+title: CarLingo Engineering
 email: engineering@carlingo.com
 description: Blog for the CarLingo Engineering Team. We are seeking motivated engineers that like technology, cars, and data.
 baseurl: "" # the subpath of your site, e.g. /blog/
