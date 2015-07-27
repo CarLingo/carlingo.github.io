@@ -5,7 +5,7 @@ description: Blog for the CarLingo Engineering Team. We are seeking motivated en
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://carlingo.github.io/" # the base hostname & protocol for your site
 twitter_username: car_lingo
-github_username:  meconlin
+github_username:  CarLingo
 
 # Build settings
 markdown: kramdown
