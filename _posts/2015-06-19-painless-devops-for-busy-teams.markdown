@@ -2,6 +2,7 @@
 layout: post
 title:  "Painless DevOps for Busy Teams"
 date:   2015-06-14 20:42:52
+author: Mark Conlin
 categories: devops aws
 ---
 #Or How I Learned to Stop Worrying and Love AWS Opsworks
