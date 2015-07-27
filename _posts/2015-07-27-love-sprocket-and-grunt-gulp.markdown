@@ -2,6 +2,7 @@
 layout: post
 title:  "How to Love Sprockets and Grunt/Gulp at the Same Time"
 date:   2015-07-27 11:23:23
+author: Philip Thrasher
 categories: javascript sprockets build
 ---
 
